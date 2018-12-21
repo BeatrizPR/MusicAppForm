@@ -1,0 +1,9 @@
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\DataAccess\bin\Debug\DataAccess.dll
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\DataAccess\bin\Debug\Entities.dll
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\DataAccess\bin\Debug\Entities.pdb
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\DataAccess\obj\Debug\DataAccess.dll
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\DataAccess\obj\Debug\DataAccess.pdb

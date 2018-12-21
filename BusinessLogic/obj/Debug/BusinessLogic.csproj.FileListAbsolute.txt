@@ -1,0 +1,11 @@
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\BusinessLogic\bin\Debug\BusinessLogic.dll
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\BusinessLogic\bin\Debug\BusinessLogic.pdb
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\BusinessLogic\bin\Debug\DataAccess.dll
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\BusinessLogic\bin\Debug\Entities.dll
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\BusinessLogic\bin\Debug\DataAccess.pdb
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\BusinessLogic\bin\Debug\Entities.pdb
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\BusinessLogic\obj\Debug\BusinessLogic.dll
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\BusinessLogic\obj\Debug\BusinessLogic.pdb

@@ -1,0 +1,17 @@
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\bin\Debug\AplicacionMusica.exe.config
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\bin\Debug\AplicacionMusica.exe
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\bin\Debug\AplicacionMusica.pdb
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\obj\Debug\AplicacionMusica.csprojAssemblyReference.cache
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\obj\Debug\AplicacionMusica.Form1.resources
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\obj\Debug\AplicacionMusica.Properties.Resources.resources
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\obj\Debug\AplicacionMusica.csproj.GenerateResource.cache
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\obj\Debug\AplicacionMusica.csproj.CoreCompileInputs.cache
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\obj\Debug\AplicacionMusica.exe
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\obj\Debug\AplicacionMusica.pdb
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\bin\Debug\BusinessLogic.dll
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\bin\Debug\DataAccess.dll
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\bin\Debug\Entities.dll
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\bin\Debug\BusinessLogic.pdb
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\bin\Debug\DataAccess.pdb
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\bin\Debug\Entities.pdb
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\AplicacionMusica\obj\Debug\AplicacionMusica.csproj.CopyComplete

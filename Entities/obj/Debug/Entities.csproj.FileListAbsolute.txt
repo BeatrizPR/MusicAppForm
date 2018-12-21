@@ -1,0 +1,6 @@
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\Entities\bin\Debug\Entities.dll
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\Entities\bin\Debug\Entities.pdb
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\Entities\obj\Debug\Entities.dll
+c:\users\beatriz.parejo.ramos\source\repos\AplicacionMusica\Entities\obj\Debug\Entities.pdb
